@@ -1,14 +1,6 @@
 ```markdown
 # 🔒 secure_mount
 
-<div align="center">
-
-![Language](https://img.shields.io/badge/language-C-green)
-![License](https://img.shields.io/badge/license-MIT-yellow)
-[![GitHub stars](https://img.shields.io/github/stars/effjy/secure_mount?style=social)](https://github.com/effjy/secure_mount)
-
-</div>
-
 **`secure_mount` is a menu‑driven, secure wrapper for gocryptfs that streamlines the initialization, mounting, and unmounting of encrypted filesystems.**  
 No more memorising command‑line flags – just pick an option, enter your paths, and let it handle the rest, all while enforcing basic security hardening.
 
