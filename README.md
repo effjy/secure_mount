@@ -13,7 +13,7 @@
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="screenshot.png" alt="Secure Mount GTK3 - Main Interface" width="800"/>
+  <img src="screenshot.png" alt="Secure Mount GTK3 - Main Interface" width="600"/>
   <br/>
   <em>Secure Mount GTK3 main dashboard — mount, unmount, and initialize encrypted volumes with ease</em>
 </div>
