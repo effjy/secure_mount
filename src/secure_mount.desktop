@@ -1,0 +1,44 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Secure Mount
+Name[en]=Secure Mount
+Name[en_US]=Secure Mount
+Comment=Manage encrypted gocryptfs volumes
+Comment[en]=Manage encrypted gocryptfs volumes
+Comment[en_US]=Manage encrypted gocryptfs volumes
+GenericName=Encrypted Filesystem Manager
+GenericName[en]=Encrypted Filesystem Manager
+GenericName[en_US]=Encrypted Filesystem Manager
+Exec=secure_mount_gtk3
+Icon=secure_mount_gtk3
+Terminal=false
+StartupNotify=true
+StartupWMClass=secure_mount_gtk3
+Categories=System;Filesystem;Security;GTK;
+Keywords=encrypt;decrypt;mount;unmount;gocryptfs;security;filesystem;
+Keywords[en]=encrypt;decrypt;mount;unmount;gocryptfs;security;filesystem;
+Keywords[en_US]=encrypt;decrypt;mount;unmount;gocryptfs;security;filesystem;
+MimeType=
+Actions=Mount;Unmount;Init;
+
+[Desktop Action Mount]
+Name=Mount Encrypted Volume
+Name[en]=Mount Encrypted Volume
+Name[en_US]=Mount Encrypted Volume
+Exec=secure_mount_gtk3
+Icon=secure_mount_gtk3
+
+[Desktop Action Unmount]
+Name=Unmount Encrypted Volume
+Name[en]=Unmount Encrypted Volume
+Name[en_US]=Unmount Encrypted Volume
+Exec=secure_mount_gtk3
+Icon=secure_mount_gtk3
+
+[Desktop Action Init]
+Name=Initialize Encrypted Volume
+Name[en]=Initialize Encrypted Volume
+Name[en_US]=Initialize Encrypted Volume
+Exec=secure_mount_gtk3
+Icon=secure_mount_gtk3
