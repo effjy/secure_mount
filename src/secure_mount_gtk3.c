@@ -244,7 +244,7 @@ static void on_menu_about_activate(GtkMenuItem *menuitem, gpointer user_data) {
         "Handles directory creation and cleanup for mount points automatically.", "\xf0\x9f\x93\x82"); /* Folder */
 
     add_feature_row(feature_box, "Secure Credential Handling", 
-        "Invokes terminal for password entry to ensure sensitive keys never touch the GUI memory.", "\xf0\x9f\xbc\x9f"); /* Star */
+        "Invokes terminal for password entry to ensure sensitive keys never touch the GUI memory.", "\xf0\x9f\x8c\x9f"); /* Star */
 
     gtk_widget_show_all(dialog);
     gtk_dialog_run(GTK_DIALOG(dialog));
