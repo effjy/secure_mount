@@ -1,10 +1,14 @@
-# Secure Mount GTK3
+<div align="center">
+
+<a href="https://github.com/effjy/secure_mount/"><img src="titles/secure-mount-title.svg" height="52" alt="Secure Mount"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![C Standard: C11](https://img.shields.io/badge/C-C11-blue.svg)](#)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)](#)
 [![GTK Version: 3.0](https://img.shields.io/badge/GTK-3.0-brightgreen.svg)](#)
 [![Dependency: gocryptfs](https://img.shields.io/badge/Dependency-gocryptfs-purple.svg)](#)
+
+</div>
 
 **Secure Mount GTK3** (also known as Secure gocryptfs Manager) is a modern, GTK3-based graphical user interface for managing `gocryptfs` encrypted volumes. It provides a simple and intuitive way to initialize, mount, and unmount encrypted directories without needing to use the command line for basic operations.
 
